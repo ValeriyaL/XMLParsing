@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<candies xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="urn:xml.candies"
+         xsi:schemaLocation="urn:xml.candies candies.xsd">
+
+    <candy id="BLR23821" type="caramel">
+        <name>Алёнка</name>
+        <energy>49</energy>
+        <ingredients>
+            <water>20</water>
+            <sugar>30</sugar>
+            <fructose>12</fructose>
+            <vanilin>10</vanilin>
+        </ingredients>
+        <value>
+            <proteins>5</proteins>
+            <fats>6</fats>
+            <carbonhydrates>7</carbonhydrates>
+        </value>
+        <production>Комунарка</production>
+    </candy>
+
+    <candy id="BLR32514" type="chocolate">
+        <name>Белочка</name>
+        <energy>52</energy>
+        <ingredients>
+            <water>10</water>
+            <sugar>20</sugar>
+            <fructose>12</fructose>
+            <vanilin>10</vanilin>
+        </ingredients>
+        <value>
+            <proteins>4</proteins>
+            <fats>16</fats>
+            <carbonhydrates>7</carbonhydrates>
+        </value>
+        <production>Спартак</production>
+    </candy>
+
+    <candy id="RUS45637" type="iris">
+        <name>Ириска</name>
+        <energy>26</energy>
+        <ingredients>
+            <water>10</water>
+            <sugar>10</sugar>
+            <fructose>10</fructose>
+            <vanilin>5</vanilin>
+        </ingredients>
+        <value>
+            <proteins>14</proteins>
+            <fats>6</fats>
+            <carbonhydrates>5</carbonhydrates>
+        </value>
+        <production>Комунарка</production>
+    </candy>
+
+    <candy id="CAN45637" type="iris">
+        <name>Iryska</name>
+        <energy>16</energy>
+        <ingredients>
+            <water>11</water>
+            <sugar>12</sugar>
+            <fructose>10</fructose>
+            <vanilin>5</vanilin>
+        </ingredients>
+        <value>
+            <proteins>14</proteins>
+            <fats>7</fats>
+            <carbonhydrates>5</carbonhydrates>
+        </value>
+        <production>Ottawa Fabric</production>
+    </candy>
+
+    <candy id="BLR45337" type="caramel">
+        <name>Карамель</name>
+        <energy>36</energy>
+        <ingredients>
+            <water>11</water>
+            <sugar>11</sugar>
+            <fructose>10</fructose>
+            <vanilin>4</vanilin>
+        </ingredients>
+        <value>
+            <proteins>4</proteins>
+            <fats>6</fats>
+            <carbonhydrates>4</carbonhydrates>
+        </value>
+        <production>Комунарка</production>
+    </candy>
+
+    <candy id="USA45637" type="chocolate">
+        <name>Alaska</name>
+        <energy>16</energy>
+        <ingredients>
+            <water>10</water>
+            <sugar>13</sugar>
+            <fructose>10</fructose>
+            <vanilin>15</vanilin>
+        </ingredients>
+        <value>
+            <proteins>4</proteins>
+            <fats>16</fats>
+            <carbonhydrates>5</carbonhydrates>
+        </value>
+        <production>Usa Factory</production>
+    </candy>
+
+    <candy id="BEL45637" type="caramel">
+        <name>Axis</name>
+        <energy>6</energy>
+        <ingredients>
+            <water>20</water>
+            <sugar>13</sugar>
+            <fructose>10</fructose>
+            <vanilin>15</vanilin>
+        </ingredients>
+        <value>
+            <proteins>1</proteins>
+            <fats>6</fats>
+            <carbonhydrates>5</carbonhydrates>
+        </value>
+        <production>Belgium factory</production>
+    </candy>
+
+    <candy id="HUN45637" type="chocolate">
+        <name>Choco</name>
+        <energy>16</energy>
+        <ingredients>
+            <water>11</water>
+            <sugar>11</sugar>
+            <fructose>11</fructose>
+            <vanilin>15</vanilin>
+        </ingredients>
+        <value>
+            <proteins>14</proteins>
+            <fats>6</fats>
+            <carbonhydrates>5</carbonhydrates>
+        </value>
+        <production>Hungary Factory</production>
+    </candy>
+
+    <chocolate id="GER24323" kind="milk">
+        <name>Milka</name>
+        <energy>67</energy>
+        <ingredients>
+            <water>20</water>
+            <sugar>19</sugar>
+            <fructose>10</fructose>
+            <vanilin>15</vanilin>
+        </ingredients>
+        <value>
+            <proteins>14</proteins>
+            <fats>16</fats>
+            <carbonhydrates>15</carbonhydrates>
+        </value>
+        <production>Mondelez International</production>
+        <percent>30</percent>
+        <additives>
+            <raisin>10</raisin>
+        </additives>
+    </chocolate>
+
+    <chocolate id="RUS02323" kind="white">
+        <name>Alpen Gold</name>
+        <energy>69</energy>
+        <ingredients>
+            <water>30</water>
+            <sugar>9</sugar>
+            <fructose>13</fructose>
+            <vanilin>15</vanilin>
+        </ingredients>
+        <value>
+            <proteins>4</proteins>
+            <fats>17</fats>
+            <carbonhydrates>15</carbonhydrates>
+        </value>
+        <production>Mondelez International</production>
+        <percent>15</percent>
+        <additives>
+            <raisin>10</raisin>
+            <hazelnut>20</hazelnut>
+        </additives>
+    </chocolate>
+
+    <chocolate id="BLR44323" kind="bitter">
+        <name>Спартак</name>
+        <energy>34</energy>
+        <ingredients>
+            <water>20</water>
+            <sugar>7</sugar>
+            <fructose>8</fructose>
+            <vanilin>8</vanilin>
+        </ingredients>
+        <value>
+            <proteins>4</proteins>
+            <fats>5</fats>
+            <carbonhydrates>15</carbonhydrates>
+        </value>
+        <production>Спартак</production>
+        <percent>30</percent>
+        <additives></additives>
+    </chocolate>
+
+    <chocolate id="GER44323" kind="milk">
+        <name>Milka</name>
+        <energy>27</energy>
+        <ingredients>
+            <water>21</water>
+            <sugar>13</sugar>
+            <fructose>11</fructose>
+            <vanilin>125</vanilin>
+        </ingredients>
+        <value>
+            <proteins>4</proteins>
+            <fats>1</fats>
+            <carbonhydrates>15</carbonhydrates>
+        </value>
+        <production>Mondelez International</production>
+        <percent>10</percent>
+        <additives>
+            <cookies>12</cookies>
+            <raisin>10</raisin>
+        </additives>
+    </chocolate>
+
+    <chocolate id="ITA24323" kind="white">
+        <name>Lala</name>
+        <energy>6</energy>
+        <ingredients>
+            <water>2</water>
+            <sugar>9</sugar>
+            <fructose>1</fructose>
+            <vanilin>5</vanilin>
+        </ingredients>
+        <value>
+            <proteins>4</proteins>
+            <fats>6</fats>
+            <carbonhydrates>5</carbonhydrates>
+        </value>
+        <production>Rome International</production>
+        <percent>10</percent>
+        <additives></additives>
+    </chocolate>
+
+    <chocolate id="ESP24323" kind="bitter">
+        <name>Barcelona</name>
+        <energy>14</energy>
+        <ingredients>
+            <water>24</water>
+            <sugar>9</sugar>
+            <fructose>40</fructose>
+            <vanilin>5</vanilin>
+        </ingredients>
+        <value>
+            <proteins>14</proteins>
+            <fats>16</fats>
+            <carbonhydrates>15</carbonhydrates>
+        </value>
+        <production>Barcelona factory</production>
+        <percent>80</percent>
+        <additives>
+            <raisin>10</raisin>
+        </additives>
+    </chocolate>
+
+    <chocolate id="FRA24323" kind="milk">
+        <name>Coco</name>
+        <energy>34</energy>
+        <ingredients>
+            <water>20</water>
+            <sugar>19</sugar>
+            <fructose>10</fructose>
+            <vanilin>15</vanilin>
+        </ingredients>
+        <value>
+            <proteins>14</proteins>
+            <fats>16</fats>
+            <carbonhydrates>15</carbonhydrates>
+        </value>
+        <production>Paris International</production>
+        <percent>20</percent>
+        <additives>
+            <cookies>11</cookies>
+            <hazelnut>12</hazelnut>
+            <raisin>10</raisin>
+        </additives>
+    </chocolate>
+
+    <chocolate id="BLR24323" kind="white">
+        <name>Вавёрка</name>
+        <energy>27</energy>
+        <ingredients>
+            <water>12</water>
+            <sugar>19</sugar>
+            <fructose>10</fructose>
+            <vanilin>13</vanilin>
+        </ingredients>
+        <value>
+            <proteins>14</proteins>
+            <fats>14</fats>
+            <carbonhydrates>15</carbonhydrates>
+        </value>
+        <production>Spartak</production>
+        <percent>20</percent>
+        <additives></additives>
+    </chocolate>
+
+</candies>
